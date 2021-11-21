@@ -1,4 +1,4 @@
-package com.example.demo.algorithm.day1;
+package com.example.demo.algorithm.num2_AddTwoNumbers;
 
 
 /**
