@@ -14,7 +14,7 @@ package com.example.demo.algorithm.num2_AddTwoNumbers;
  */
 public class AddTwoNumbers {
 
-    public class ListNode {
+    private class ListNode {
         int val;
         ListNode next;
         ListNode() {}
